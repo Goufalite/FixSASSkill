@@ -28,5 +28,5 @@ Please provide a KSP.log file in order for me to help you. Also tell me if you h
 
 ## Changelog
 
-### 1.0.0.0 
+### 0.1.0.0 
 * Initial release
